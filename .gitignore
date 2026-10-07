@@ -1,0 +1,17 @@
+node_modules/
+.next/
+*.log
+wallets/
+fabric-api/wallets/
+fabric-api/src/wallets/
+fabric-samples/test-network/organizations/
+fabric-samples/test-network/channel-artifacts/
+fabric-samples/bin/
+fabric-samples/config/
+*.zip
+*.tar.gz
+*.pb
+*.block
+setup_debug.log
+temp_ca.crt
+${config_path}
